@@ -1,4 +1,6 @@
 # Crowdstart
+
+[![Join the chat at https://gitter.im/crowdstart/crowdstart](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/crowdstart/crowdstart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [Crowdstart](http://www.crowdstart.com) is a crowdfunding platform.
 
 ## Documentation
